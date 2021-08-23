@@ -1,0 +1,12 @@
+.primary-bg {
+  background-color: #27AE60;
+}
+
+.primary-btn {
+  @apply px-6 py-2 text-2xl text-white primary-bg rounded-2xl;
+}
+
+.menu-item {
+  @apply py-10 px-5 inline-block
+}
+.hero-heading {font-size: 144px;}
