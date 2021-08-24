@@ -26,7 +26,7 @@
             </div>
           </div>
         </div>
-        <div class="flex items-center">
+        <!-- <div class="flex items-center">
           <div class="w-full">
             <h1 class="mt-6 mb-6 font-bold leading-none text-white uppercase hero-heading">Vaccine</h1>
             <h2 class="mb-8 font-medium text-white uppercase text-7xl">Registration</h2>
@@ -35,7 +35,7 @@
           <div class="min-w-max">
             <img src="~/static/img/vaccine-header.png" alt="not-found">
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
