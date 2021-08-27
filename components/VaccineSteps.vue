@@ -16,7 +16,7 @@
           <img v-if="theme == 'homepage' || theme == 'step_2' || theme == 'step_3'" class="mx-auto" src="~/static/img/promo-2.svg" alt="">
           <img v-if="theme == 'step_1'" class="mx-auto" src="~/static/img/promo-2-disabled.svg" alt="">
         </div>
-        <div v-bind:class="theme == 'homepage' || theme == 'step_2 ' || theme == 'step_3' ? 'border-green-600' : 'border-gray-400'" class="relative w-6 h-6 mx-auto mt-8 mb-4 border-4 rounded-full tika-step"></div>
+        <div v-bind:class="theme == 'homepage' || theme == 'step_2' || theme == 'step_3' ? 'border-green-600' : 'border-gray-400'" class="relative w-6 h-6 mx-auto mt-8 mb-4 border-4 rounded-full tika-step"></div>
         <p class="text-lg font-bold">Phone</p>
       </div>
 
